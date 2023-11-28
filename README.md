@@ -5,3 +5,4 @@ La tecnologias que utilizé fue GitBash y al mismo tiempo el navegador Microsoft
 ### Ludvin Gregorio
 **_lUDVIN PASCUAL_**
 + Ludvin Pascual
+- [ ] https://github.com/octo-org/octo-repo/issues/740
